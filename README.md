@@ -9,21 +9,32 @@
 
 ## Installation <a name="installation"></a>
 
-Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-Discuss what your project is about, and what interested you in pursuing the project.
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. How bias played a role in the suggestions of developers for how to break into the field?
+4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
+5. How were bootcamps assisting with increasing diversity in tech careers?
+
+The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+
 
 ## File Descriptions <a name="files"></a>
 
-Guide others through the files in your repository.  You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
+There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+
+There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project.  What were your results?  What did you do to improve them?  What methods did you try?  What worked?  What didn't work?
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You always want to give credit where necessary.  Acknowledge other contributors, helpful peers, data providers, etc.  
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link avaiable [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
