@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="Stackoverflow Logo" width="155" style="margin-right: 10px;">
+  <br><br>
+  <img src="https://www.udacity.com/images/svgs/udacity-tt-logo.svg" alt="Udacity Logo" width="150" style="margin-left: 10px;">
+  <h1 style="color: #006241; font-size: 20px;"></h1>
+</div>
+
 - *This project basically testing fork repository during my first time learn at [Udacity](https://www.udacity.com/), and thanks to [jjrunner](https://github.com/jjrunner) for sharing his knowledge.*
 
 ### Table of Contents
